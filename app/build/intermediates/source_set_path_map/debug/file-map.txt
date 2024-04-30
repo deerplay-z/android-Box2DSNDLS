@@ -1,0 +1,7 @@
+com.bn.box2d.sndls.app-pngs-0 D:\work\android\android-Box2DSNDLS1\app\build\generated\res\pngs\debug
+com.bn.box2d.sndls.app-resValues-1 D:\work\android\android-Box2DSNDLS1\app\build\generated\res\resValues\debug
+com.bn.box2d.sndls.app-packageDebugResources-2 D:\work\android\android-Box2DSNDLS1\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.bn.box2d.sndls.app-packageDebugResources-3 D:\work\android\android-Box2DSNDLS1\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.bn.box2d.sndls.app-merged_res-4 D:\work\android\android-Box2DSNDLS1\app\build\intermediates\merged_res\debug
+com.bn.box2d.sndls.app-debug-5 D:\work\android\android-Box2DSNDLS1\app\src\debug\res
+com.bn.box2d.sndls.app-main-6 D:\work\android\android-Box2DSNDLS1\app\src\main\res

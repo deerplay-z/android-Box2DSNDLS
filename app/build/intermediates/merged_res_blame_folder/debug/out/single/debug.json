@@ -1,0 +1,674 @@
+[
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_hs_6.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_hs_6.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_bottom_left_ntz.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/bottom_left_ntz.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_hs_7.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_hs_7.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_hs_0.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_hs_0.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_dhk.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\dhk.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_c_xd.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/c_xd.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_zs_3.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_zs_3.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_wood_shu.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/wood_shu.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_bs_2.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_bs_2.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_zs_4.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_zs_4.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_gk_2.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/gk_2.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_bs_9.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_bs_9.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-mdpi_icon.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_ice_shu_1.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/ice_shu_1.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_wood_hen_2.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\wood_hen_2.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_stone_shu.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\stone_shu.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_bs_3.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_bs_3.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_ice_hen_2.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\ice_hen_2.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_v_xyg.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/v_xyg.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_ntz.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\ntz.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_zs_5.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_zs_5.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_level_cleared.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\level_cleared.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_bg.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/bg.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_hs_7.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_hs_7.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_gk_3.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/gk_3.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_bottom_ntz.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\bottom_ntz.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_hs_6.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_hs_6.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_wood_hen_1.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/wood_hen_1.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_sndls.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/sndls.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_bottom_ntz.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/bottom_ntz.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_close.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\close.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_bs_3.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_bs_3.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_level_failure.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\level_failure.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_set_ck.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/set_ck.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_hs_0.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_hs_0.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_level_cleared.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/level_cleared.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_bs_2.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_bs_2.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_wood_hen.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/wood_hen.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_fs_back.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\fs_back.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_zs_9.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_zs_9.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_bs_9.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_bs_9.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_ice_shu_2.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/ice_shu_2.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_level_failure.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/level_failure.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_fs_back.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/fs_back.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_ls_zy.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\ls_zy.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_set_close.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/set_close.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_ice_hen_1.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\ice_hen_1.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_set_cl.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\set_cl.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_zs_2.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_zs_2.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_zs_6.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_zs_6.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_hs_9.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_hs_9.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_set_close.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\set_close.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_play.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/play.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_ice_hen_3.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\ice_hen_3.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_set_sy.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/set_sy.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_wood_hen.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\wood_hen.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\raw_cat.mp3.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\raw\\cat.mp3"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_ice_shu_3.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/ice_shu_3.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_bs_8.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_bs_8.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_dhk.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/dhk.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_zs_9.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_zs_9.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_wood_shu.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\wood_shu.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_ice_shu_3.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\ice_shu_3.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\raw_boli.mp3.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\raw\\boli.mp3"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_ice_hen_3.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/ice_hen_3.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_zs_1.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_zs_1.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_hs_8.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_hs_8.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_sndls.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\sndls.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_pj.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/pj.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\raw_pijin.mp3.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\raw\\pijin.mp3"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_gk_1.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/gk_1.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_zs_4.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_zs_4.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\raw_wood.mp3.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\raw\\wood.mp3"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_wood_hen_1.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\wood_hen_1.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_zs_3.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_zs_3.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_ground.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/ground.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_hs_5.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_hs_5.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_v_zjm.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/v_zjm.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_bottom_left_ntz.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\bottom_left_ntz.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_hs_2.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_hs_2.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_bs_1.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_bs_1.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_bs_4.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_bs_4.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_hs_1.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_hs_1.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_zs_7.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_zs_7.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_bs_5.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_bs_5.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_set_back.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\set_back.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_dg.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/dg.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_bg_fg.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/bg_fg.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_ice_hen_1.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/ice_hen_1.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_bs_7.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_bs_7.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_ice_shu_2.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\ice_shu_2.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_gk_2.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\gk_2.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_hs_4.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_hs_4.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_ls_zy.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/ls_zy.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_zs_0.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_zs_0.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_bs_0.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_bs_0.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_stone_hen.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/stone_hen.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_zs_6.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_zs_6.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_wood_shu_2.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\wood_shu_2.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_set.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\set.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_zs_7.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_zs_7.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_bs_6.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_bs_6.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_c_dd.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/c_dd.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_wood_shu_1.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/wood_shu_1.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_hs_3.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_hs_3.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_bs_6.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_bs_6.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_xm.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\xm.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_set_back.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/set_back.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_ground.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\ground.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_bs_7.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_bs_7.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_ls_by.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\ls_by.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_bottom_right_ntz.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\bottom_right_ntz.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_v_xyg.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\v_xyg.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_bs_0.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_bs_0.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_about.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/about.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_hs_3.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_hs_3.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_zs_8.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_zs_8.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_wood_shu_2.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/wood_shu_2.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_v_zjm.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\v_zjm.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_hs_4.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_hs_4.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_c_xd.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\c_xd.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_wood_shu_1.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\wood_shu_1.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_gk_1.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\gk_1.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_zs_1.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_zs_1.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_pj.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\pj.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_set_xx.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\set_xx.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_bs_4.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_bs_4.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_bs_5.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_bs_5.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_set_xx.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/set_xx.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\raw_ls_fx.mp3.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\raw\\ls_fx.mp3"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_set_sy.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\set_sy.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_zs_5.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_zs_5.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_hs_5.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_hs_5.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_zs_8.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_zs_8.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_set.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/set.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_xm.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/xm.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_bs_1.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_bs_1.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_hs_1.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_hs_1.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_bg_fg.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\bg_fg.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_bg.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_zs_2.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_zs_2.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_set_ck.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\set_ck.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_hs_2.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_hs_2.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_play.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_hs_8.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_hs_8.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_ice_hen.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\ice_hen.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_ice_shu.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/ice_shu.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_ice_shu_1.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\ice_shu_1.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_dg.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\dg.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_num_bs_8.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\num_bs_8.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_about.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\about.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_ice_hen.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/ice_hen.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_c_dd.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\c_dd.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\raw_stond.mp3.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\raw\\stond.mp3"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_ice_shu.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\ice_shu.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_set_cl.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/set_cl.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_bottom_right_ntz.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/bottom_right_ntz.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_ls_by.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/ls_by.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_ntz.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/ntz.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_zs_0.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_zs_0.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_gk_3.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\gk_3.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_num_hs_9.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/num_hs_9.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_close.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/close.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_wood_hen_2.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/wood_hen_2.png"
+    },
+    {
+        "merged": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-merged_res-4:\\drawable-nodpi_stone_hen.png.flat",
+        "source": "C:\\Users\\deerplay\\.gradle\\daemon\\8.0\\com.bn.box2d.sndls.app-main-6:\\drawable-nodpi\\stone_hen.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_stone_shu.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/stone_shu.png"
+    },
+    {
+        "merged": "com.bn.box2d.sndls.app-merged_res-4:/drawable-nodpi_ice_hen_2.png.flat",
+        "source": "com.bn.box2d.sndls.app-main-6:/drawable-nodpi/ice_hen_2.png"
+    }
+]

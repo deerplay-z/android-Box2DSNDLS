@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/box2d/sndls/BodyCat.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/box2d/sndls/BodyIce.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/box2d/sndls/BodyType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/box2d/sndls/Box2DUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/box2d/sndls/PicLoadUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/box2d/sndls/Pijin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/box2d/sndls/Score.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/box2d/sndls/SoundUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/box2d/sndls/TJThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/box2d/sndls/Taj.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
